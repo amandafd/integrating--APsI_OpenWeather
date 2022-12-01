@@ -31,7 +31,7 @@
 
 <h3 id="the-project">The Project</h3>
 
-<p>Project to study integration of APIs in web pages, using OpenWeather.</p> 
+<p>Project to study integration of APIs in web pages, using <a href="https://openweathermap.org/api">OpenWeather</a>.</p> 
 <p>The learning objectives for this project will be updated in the "Lessons learned" section as they are worked through in the run.</p>
 
 
