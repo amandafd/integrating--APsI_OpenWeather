@@ -39,6 +39,7 @@
 
 <h3 id="lessons-learned">Lessons learned</h3>
 <ul>The learning acquired during the execution of this project will be constantly updated here:
+  <li>Asynchronous JS</li>
   <li>API integration</li>
 </ul> 
 
