@@ -52,4 +52,4 @@ cityInput.addEventListener("keyup", (e) => {
 
         showWeatherData(city);
     }
-})
+});
